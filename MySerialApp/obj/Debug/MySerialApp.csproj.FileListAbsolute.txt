@@ -1,0 +1,10 @@
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\bin\Debug\MySerialApp.exe.config
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\bin\Debug\MySerialApp.exe
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\bin\Debug\MySerialApp.pdb
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\obj\Debug\MySerialApp.csprojAssemblyReference.cache
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\obj\Debug\MySerialApp.Form1.resources
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\obj\Debug\MySerialApp.Properties.Resources.resources
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\obj\Debug\MySerialApp.csproj.GenerateResource.cache
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\obj\Debug\MySerialApp.csproj.CoreCompileInputs.cache
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\obj\Debug\MySerialApp.exe
+C:\Users\InuyashaITB\source\repos\MySerialApp\MySerialApp\obj\Debug\MySerialApp.pdb
